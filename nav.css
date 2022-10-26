@@ -1,0 +1,18 @@
+nav a{
+    color:black;
+    margin: 20px;
+    text-decoration:none;
+    font-size:20px;
+}
+body{
+    margin:0px;
+}
+nav{
+    display: flex;
+    flex-flow: row-reverse;
+    background-color: rgba(253, 251, 251, 0.961);
+}
+
+nav a:hover{
+    color: rgb(25, 12, 214)
+} 
