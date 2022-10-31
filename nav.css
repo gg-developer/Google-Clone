@@ -14,5 +14,12 @@ nav{
 }
 
 nav a:hover{
-    color: rgb(25, 12, 214)
+    color: rgb(206, 206, 206);
+    background-color:rgb(57, 57, 57);
 } 
+nav a{
+    background-color:rgb(112, 112, 112);
+    padding:5px 10px;
+    border-radius:10px;
+
+}
